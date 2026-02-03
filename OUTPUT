@@ -1,0 +1,32 @@
+
+===== USER SYSTEM =====
+1. Register
+2. Login
+3. Exit
+Enter choice: 1
+
+--- User Registration ---
+Enter username: prajwal
+Enter password: jagtap@123
+✅ Registration successful!
+
+===== USER SYSTEM =====
+1. Register
+2. Login
+3. Exit
+Enter choice: 2
+
+--- User Login ---
+Enter username: prajwal
+Enter password: jagtap@123
+✅  Valid username or password.
+
+===== USER SYSTEM =====
+1. Register
+2. Login
+3. Exit
+Enter choice: 3
+Goodbye!
+
+
+=== Code Execution Successful ===
